@@ -1,5 +1,5 @@
-Hey there!! Do you miss the game of snake  you have played on your nokia phone in your childhood?
-Well I do and hence here is my version of that game this repository contains 4 files main , snake , food , scoreboard 
-which by their name illustrate that they keep the records of movement of snake , body of snake , food's colour shape size and place ,
-score of the player is also maintained in this game. 
-I have made this game using Turtle module of Python. Have fun playing this game :)
+Hey there! Do you remember playing the classic Snake game on your Nokia phone during your childhood? 
+I certainly do, and I have created a version of that game using the Turtle module in Python. 
+This repository includes four files: main, snake, food, and scoreboard. 
+These files keep track of the snake's movement, the snake's body, the food's appearance, location, and score of the player. 
+I hope you enjoy playing this game!
